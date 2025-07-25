@@ -55,10 +55,10 @@ All project resources are hosted on GitHub at:
 ## 👥 Authors
 
 This is a group research project by:
-- [Replace with group member names or initials if needed]
+- Cletus, Surprise, Abigail, Barnabas, Mark
 - University of Cape Coast, Department of Economics
 
-Supervised by: **Dr. Bondzie-Micah**
+Supervised by: **Dr. Eric Amoo Bondzie**
 
 ---
 
